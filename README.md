@@ -48,7 +48,7 @@ Each model was chosen for its specific strengths:<br/>
 2. Gradient Boosting: Strong performance with numerical features and complex patterns<br/>
 3. XGBoost: Superior handling of large-scale data and efficient processing<br/>
 <br/>
-**Why?**<br/>
+**Why**<br/>
 Insurance companies need to make informed decisions about risk assessment and pricing.<br/>
 By creating this risk assessment system, we:<br/>
 <br/>
@@ -59,7 +59,7 @@ Help property owners understand their risk exposure<br/>
 Enable more accurate pricing based on actual risk levels<br/>
 Better prepare for potential future claims based on risk profiles<br/>
 <br/>
-**How?**<br/>
+**How**<br/>
 Three main steps:<br/>
 <br/>
 **1. Collecting and Organizing Data**<br/>
@@ -83,7 +83,7 @@ Compare our calculations against actual historical data to ensure accuracy<br/>
 Create clear risk assessment scores for insurance professionals<br/>
 Continuously refine our calculations as new data becomes available<br/>
 <br/>
-# Next Steps<br/>
+**Next Steps**<br/>
 <br/>
 Model Refinement:<br/>
 <br/>
